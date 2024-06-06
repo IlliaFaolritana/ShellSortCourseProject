@@ -1,0 +1,10 @@
+C:\Course Final Project\ShellSortProject\ShellSortProject\bin\Debug\ShellSortProject.exe.config
+C:\Course Final Project\ShellSortProject\ShellSortProject\bin\Debug\ShellSortProject.exe
+C:\Course Final Project\ShellSortProject\ShellSortProject\bin\Debug\ShellSortProject.pdb
+C:\Course Final Project\ShellSortProject\ShellSortProject\obj\Debug\ShellSortProject.csproj.AssemblyReference.cache
+C:\Course Final Project\ShellSortProject\ShellSortProject\obj\Debug\ShellSortProject.Properties.Resources.resources
+C:\Course Final Project\ShellSortProject\ShellSortProject\obj\Debug\ShellSortProject.csproj.GenerateResource.cache
+C:\Course Final Project\ShellSortProject\ShellSortProject\obj\Debug\ShellSortProject.csproj.CoreCompileInputs.cache
+C:\Course Final Project\ShellSortProject\ShellSortProject\obj\Debug\ShellSortProject.exe
+C:\Course Final Project\ShellSortProject\ShellSortProject\obj\Debug\ShellSortProject.pdb
+C:\Course Final Project\ShellSortProject\ShellSortProject\obj\Debug\ShellSortProject.MainForm.resources
